@@ -9,7 +9,10 @@
     "quantity": 24,
     "nonToxic": true,
     "suitableForKids": true,
-    "image": "/images/olio-montmarte.jpg"
+    "images":[
+      "/images/matite-colorate-colour-faber-castell.jpg",
+      "/images/Matite-Colorate-Faber-Castell Classic.jpg"
+    ] 
   },
   {
     "id": 2,
@@ -21,7 +24,10 @@
     "quantity": 12,
     "nonToxic": true,
     "suitableForKids": false,
-    "image": "/images/acquerelli-cotman.jpg"
+    "images":[
+      "/images/acquerelli-cotman-winsor-newton.jpg",
+      "/images/Confezione-acquerelli-Winsor-Newton-Cotman-12.jpg"
+    ] 
   },
   {
     "id": 3,
@@ -33,7 +39,10 @@
     "quantity": 10,
     "nonToxic": false,
     "suitableForKids": false,
-    "image": "/images/olio-van-gogh.jpg"
+    "images":[
+      "/images/set-van-gogh-colori-a-olio.jpg",
+      "/images/set-colori-ad-olio-van-gogh2.jpg"
+    ]
   },
   {
     "id": 4,
@@ -45,7 +54,9 @@
     "quantity": 12,
     "nonToxic": true,
     "suitableForKids": true,
-    "image": "/images/acrilico-giotto.jpg"
+    "images":[
+      "/images/Colori-Acrilici-Giotto-Acrylic-Paint.png"
+    ]
   },
   {
     "id": 5,
@@ -57,7 +68,10 @@
     "quantity": 12,
     "nonToxic": true,
     "suitableForKids": true,
-    "image": "/images/matite-staedtler.jpg"
+    "images":[
+      "/images/Matite-acquerellabili-Staedtler-Noris-Club.png",
+      "/images/pastelli-acquerellabili-staedtler-noris-club.jpg"
+    ]
   },
   {
     "id": 6,
@@ -69,7 +83,9 @@
     "quantity": 36,
     "nonToxic": true,
     "suitableForKids": false,
-    "image": "/images/acquerelli-arteza.jpg"
+    "images":[
+      "/images/Set-Acquerelli-Arteza-Premium.jpg"
+    ]
   },
   {
     "id": 7,
@@ -81,7 +97,10 @@
     "quantity": 18,
     "nonToxic": false,
     "suitableForKids": false,
-    "image": "/images/olio-montmarte.jpg"
+    "images":[
+      "/images/Colori a Olio Mont Marte Signature.jpg",
+      "/images/Colori-a-Olio-Mont-Marte-Signature.jpg"
+    ]
   },
   {
     "id": 8,
@@ -93,7 +112,10 @@
     "quantity": 24,
     "nonToxic": true,
     "suitableForKids": false,
-    "image": "/images/acrilico-liquitex.jpg"
+    "images":[
+      "/images/Colori-Acrilici-Liquitex-Basics.jpg",
+      "/images/Colori-Acrilici-Liquitex-Basics-24.jpg"
+    ]
   },
   {
     "id": 9,
@@ -105,7 +127,9 @@
     "quantity": 48,
     "nonToxic": false,
     "suitableForKids": false,
-    "image": "/images/matite-prismacolor.jpg"
+    "images":[
+      "/images/Matite Colorate Prismacolor Premier.jpg"
+    ]
   },
   {
     "id": 10,
@@ -117,7 +141,10 @@
     "quantity": 12,
     "nonToxic": true,
     "suitableForKids": true,
-    "image": "/images/acquerelli-giotto.jpg"
+    "images":[
+      "/images/set-da-12-acquerelli-giotto.jpg",
+      "/images/set-12-acquerelli-giotto.jpg"
+    ]
   },
   {
     "id": 11,
@@ -129,7 +156,10 @@
     "quantity": 20,
     "nonToxic": false,
     "suitableForKids": false,
-    "image": "/images/olio-pebeo.jpg"
+    "images":[
+      "/images/scatola-set-colori-oil.jpg",
+      "/images/scatola-set-colori-xl-oil.jpg"
+    ]
   },
   {
     "id": 12,
@@ -141,7 +171,9 @@
     "quantity": 12,
     "nonToxic": true,
     "suitableForKids": true,
-    "image": "/images/acrilico-reeves.jpg"
+    "images":[
+      "/images/Colori Acrilici Reeves Set Base.jpg"
+    ]
   },
   {
     "id": 13,
@@ -153,7 +185,10 @@
     "quantity": 24,
     "nonToxic": true,
     "suitableForKids": false,
-    "image": "/images/matite-derwent.jpg"
+    "images":[
+      "/images/Matite Acquerellabili Derwent.jpg",
+      "/images/Matite Acquerellabili Derwent Academy.jpg"
+    ]
   },
   {
     "id": 14,
@@ -165,7 +200,10 @@
     "quantity": 24,
     "nonToxic": true,
     "suitableForKids": false,
-    "image": "/images/acquerelli-kuretake.jpg"
+    "images":[
+      "/images/Set Acquerelli Kuretake Gansai Tambi.jpg",
+      "/images/Set Acquerelli Kuretake Gansai.jpg"
+    ]
   },
   {
     "id": 15,
@@ -174,9 +212,11 @@
     "brand": "Amsterdam",
     "price": 23.95,
     "pigmentLevel": "Alta",
-    "quantity": 20,
+    "quantity": 24,
     "nonToxic": true,
     "suitableForKids": false,
-    "image": "/images/acrilico-amsterdam.jpg"
+    "images":[
+      "/images/set-dei-colori-acrilici-amsterdam-standardl.jpg"
+    ]
   }
 ]
